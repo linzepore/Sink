@@ -15,21 +15,6 @@
 - **🪄 AI Slug:** Leverage AI to generate slugs.
 - **Link Expiration:** Set expiration dates for your links.
 
-## 🪧 Demo
-
-Experience the demo at [Sink.Cool](https://sink.cool/dashboard). Log in using the Site Token below:
-
-```txt
-Site Token: SinkCool
-```
-
-<details>
-  <summary><b>Screenshots</b></summary>
-  <img alt="Analytics" src="./docs/images/sink.cool_dashboard.png"/>
-  <img alt="Links" src="./docs/images/sink.cool_dashboard_links.png"/>
-  <img alt="Link Analytics" src="./docs/images/sink.cool_dashboard_link_slug.png"/>
-</details>
-
 ## 🧱 Technologies Used
 
 - **Framework**: [Nuxt](https://nuxt.com/)
@@ -86,8 +71,3 @@ We welcome your contributions and PRs.
 1. [**Cloudflare**](https://www.cloudflare.com/)
 2. [**NuxtHub**](https://hub.nuxt.com/)
 3. [**Astroship**](https://astroship.web3templates.com/)
-
-## ☕ Sponsor
-
-1. [Follow Me on X(Twitter)](https://x.com/ccbikai).
-2. [Become a sponsor to on GitHub](https://github.com/sponsors/ccbikai).
